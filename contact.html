@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="th">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title> ติดต่อ Aroma Haven </title>
+  </head>
+  <body>
+    <header>
+      <h1>
+       ✨️  Aroma Haven  🏝️
+        <br><br>
+        <img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4iSK9IBPLsq9ltiPaYYhBGkYGEFPxhlKjsA&s"
+          alt="AromaMassage Logo"
+          style="height: 210px"
+        />
+      </h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">หน้าแรก</a></li>
+          <li><a href="about.html">เกี่ยวกับ</a></li>
+          <li><a href="services.html">บริการ</a></li>
+          <li><a href="contact.html">ติดต่อ</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <h1>ติดต่อทางร้าน</h1>
+
+      <section id="contact-form">
+        <h2>ติดต่อถึงทางร้าน</h2>
+        <form action="#" method="POST">
+          <div>
+            <label for="name">ชื่อ:</label>
+            <input
+              type="text"
+              id="name"
+              name="name"
+              required
+              placeholder="ชื่อ-นามสกุลของคุณ"
+            />
+          </div>
+
+          <div>
+            <label for="email">อีเมล:</label>
+            <input
+              type="email"
+              id="email"
+              name="email"
+              required
+              placeholder="example@email.com"
+            />
+          </div>
+
+          <div>
+            <label for="subject">หัวข้อ:</label>
+            <select id="subject" name="subject" required>
+              <option value="">-- เลือกหัวข้อที่ต้องการจองบริการ --</option>
+              <option value="Aroma Massage">นวดอโรม่า (Aroma Massage)</option>
+              <option value="Relax Massage">นวดผ่อนคลาย (Relax Massage)</option>
+              <option value="Office Syndrome">นวดคอ บ่า ไหล่ (Office Syndrome)</option>
+            </select>
+          </div>
+
+          <div>
+            <label for="message">ข้อความติดต่อ:</label>
+            <textarea
+              id="message"
+              name="message"
+              rows="5"
+              required
+              placeholder="รายละเอียดที่คุณต้องการติดต่อ"
+            ></textarea>
+          </div>
+
+          <button type="submit">ส่งข้อความ</button>
+        </form>
+      </section>
+
+      <hr />
+
+      <section id="location-info">
+        <h2>ที่ตั้งและข้อมูลการติดต่อ</h2>
+
+        <address>
+          <strong>Aroma Haven </strong><br />
+          เลขที่123 ซอยลาดวิถี ถนนนวดนาบ<br />
+          แขวงหมู่4, เขตเสวปิ๊, กรุงเทพมหานคร 10000<br />
+          โทรศัพท์: 02-123-4567<br />
+          อีเมล: <a href="AromaHaven.com">AromaHaven.com</a>
+        </address>
+
+        <hr />
+
+        <div id="map">
+          <h3>แผนที่ตั้งสำนักงาน</h3>
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.462705481775!2d100.53488217505315!3d13.753365892557763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29ed8744040a1%3A0x6b6967f1b2b801a2!2sSiam%20Square%20One!5e0!3m2!1sth!2sth!4v1678891234567!5m2!1sth!2sth"
+            width="100%"
+            height="450"
+            style="border: 0"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            title="Google Maps Location of InMyWash Office"
+          >
+          </iframe>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>© 2025 Aroma Haven. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
