@@ -20,7 +20,7 @@ my-business-web/
 
 ## รูปหน้าจอทั้งหมด
 
-![ภาพหน้าจอของหน้าแรก ](images/screenshot-index.png)
+![ภาพหน้าจอของหน้าแรก ](images/index.png)
 ![ภาพหน้าจอของหน้าเกี่ยวกับ AromaHaven](images/screenshot-about.png)
 ![ภาพหน้าจอของหน้าบริการ AromaHaven](images/screenshot-services.png)
 ![ภาพหน้าจอของหน้าติดต่อ AromaHaven](images/screenshot-contact.png)
