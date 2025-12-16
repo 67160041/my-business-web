@@ -20,10 +20,10 @@ my-business-web/
 
 ## รูปภาพหน้าจอทั้งหมด
 
-[ภาพหน้าจอของหน้าแรก](images/index.png)
-[ภาพหน้าจอของหน้าเกี่ยวกับ](images/about.png)
-[ภาพหน้าจอของหน้าบริการ](images/services.png)
-[ภาพหน้าจอของหน้าติดต่อ](images/contact.png)
+![ภาพหน้าจอของหน้าแรก](images/index.png)
+![ภาพหน้าจอของหน้าเกี่ยวกับ](images/about.png)
+![ภาพหน้าจอของหน้าบริการ](images/services.png) 
+![ภาพหน้าจอของหน้าติดต่อ](images/contact.png)
 
 ## ลิงก์เข้าไปในแต่ละหน้า
 
