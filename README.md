@@ -20,10 +20,10 @@ my-business-web/
 
 ## รูปภาพหน้าจอทั้งหมด
 
-[ภาพหน้าจอของหน้าแรก InMyWash](images/indexup.png)
-[ภาพหน้าจอของหน้าเกี่ยวกับ InMyWash](images/about.png)
-[ภาพหน้าจอของหน้าบริการ InMyWash](images/services.png)
-[ภาพหน้าจอของหน้าติดต่อ InMyWash](images/contact.png)
+[ภาพหน้าจอของหน้าแรก](images/index.png)
+[ภาพหน้าจอของหน้าเกี่ยวกับ](images/about.png)
+[ภาพหน้าจอของหน้าบริการ](images/services.png)
+[ภาพหน้าจอของหน้าติดต่อ](images/contact.png)
 
 ## ลิงก์เข้าไปในแต่ละหน้า
 
@@ -34,7 +34,3 @@ my-business-web/
 | บริการ    | http://127.0.0.1:5500/services.html |
 | ติดต่อ    | http://127.0.0.1:5500/contact.html  |
 
-[ภาพหน้าจอของหน้าแรก ](images/index.png)
-[ภาพหน้าจอของหน้าเกี่ยวกับ AromaHaven](images/about.png)
-[ภาพหน้าจอของหน้าบริการ AromaHaven](images/services.png)
-[ภาพหน้าจอของหน้าติดต่อ AromaHaven](images/contact.png)
