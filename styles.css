@@ -4,12 +4,12 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f9;
+  background-color: #c8dbbb;
   color: #333;
 }
 
 header {
-  background: #558b2f; /* สี */
+  background: #c8dbbb; /* สี */
   color: white;
   padding: 1em 0;
   text-align: center;
@@ -31,7 +31,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: white;
+  color: rgb(0, 0, 0);
   text-decoration: none;
 }
 
